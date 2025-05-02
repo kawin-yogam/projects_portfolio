@@ -1,23 +1,24 @@
-# My GitHub Portfolio 🌍
-Welcome to my GitHub Portfolio, where I document my learning journey in web development and backend programming. This is just the beginning—more projects to come as I improve! 🚀
+# Projects Portfolio
 
-📌 **Featured Projects**
-- **Beginner Web Dev**  
-A simple repo where I practice HTML & CSS. Nothing fancy—just experimenting and learning the basics. I'll keep adding more as I improve.
+A personal portfolio webpage showcasing selected projects.
+
+## 🔗 Projects Featured
+
+- **Static Web Framework**  
+  Practicing HTML and CSS for responsive layout and structure.
 
 - **Recipe Book**  
-A basic recipe website built with HTML, where I document my mom’s home-cooked recipes. Simple, clean, and straight to the point.
+  A simple web app for storing and viewing categorized recipes.
 
 - **Expense Manager**  
-A full-stack finance tracker built with **Spring Boot**, **Java**, **HTML**, **CSS**, and **JavaScript**. This application allows users to:
-  - Add financial transactions
-  - Fetch all transactions
-  - Delete transactions
-  The backend is powered by **Spring Boot** and **Java**, with a **PostgreSQL** database for data storage. The frontend is built using **HTML**, **CSS**, and **JavaScript** to provide an intuitive user experience.
+  Java + Spring Boot application for tracking expenses and generating reports.
 
-🔧 **Tech Stack**
-- **HTML** & **CSS** for frontend basics
-- **Java** & **Spring Boot** for backend development
-- **SQL** for database management
-- **PostgreSQL** for persistent storage
-- More projects coming soon as I refine my skills. Stay tuned! 🚀
+## 📄 About
+
+This static portfolio page is built with HTML and CSS and is intended to serve as a simple overview of ongoing and completed personal projects.
+
+## 📁 Usage
+
+You can open `index.html` directly in your browser or host it using GitHub Pages.
+
+---

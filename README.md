@@ -7,8 +7,8 @@ A personal portfolio webpage showcasing selected projects.
 - **Static Web Framework**  
   Practicing HTML and CSS for responsive layout and structure.
 
-- **Recipe Book**  
-  A simple web app for storing and viewing categorized recipes.
+- **Dal Rice**  
+  Dal Rice and its recipe.
 
 - **Expense Manager**  
   Java + Spring Boot application for tracking expenses and generating reports.

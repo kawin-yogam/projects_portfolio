@@ -5,7 +5,7 @@ A personal portfolio webpage showcasing selected projects.
 ## 🔗 Projects Featured
 
 - **Static Web Framework**  
-  Practicing HTML and CSS for responsive layout and structure.
+  Used HTML and CSS for responsive layout and structure.
 
 - **Dal Rice**  
   Dal Rice and its recipe.
